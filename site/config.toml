@@ -3,6 +3,16 @@ baseURL = 'https://zguide.zeromq.org'
 title = 'ØMQ - The Guide'
 theme = 'book'
 
+# Multi-language configuration
+defaultContentLanguage = 'en'
+[languages]
+[languages.en]
+title = 'ØMQ - The Guide'
+weight = 1
+[languages.zh]
+title = 'ØMQ - 指南'
+weight = 2
+
 # Book configuration
 disablePathToLower = true
 enableGitInfo = true
