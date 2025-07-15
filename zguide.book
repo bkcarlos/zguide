@@ -5,13 +5,13 @@ SUBTITLE=
 TITLENOTE=
 
 #   Content
-./preface_web.txt
-./chapter1.txt
-./chapter2.txt
-./chapter3.txt
-./chapter4.txt
-./chapter5.txt
-./chapter6.txt
-./chapter7.txt
-./chapter8.txt
-./postface.txt
+./preface_web_zh.txt
+./chapter1_zh.txt
+./chapter2_zh.txt
+./chapter3_zh.txt
+./chapter4_zh.txt
+./chapter5_zh.txt
+./chapter6_zh.txt
+./chapter7_zh.txt
+./chapter8_zh.txt
+./postface_zh.txt
